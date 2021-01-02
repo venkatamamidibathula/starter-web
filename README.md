@@ -3,4 +3,4 @@
 This repository is for showing how Git and GitHub work
 Many more to come
 ## Purpose
-A brand new purpose - added in develop branch original
+A brand new purpose - added in develop branch 1st original
