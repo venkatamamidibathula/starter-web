@@ -8,7 +8,6 @@ King of good times
 Check the creation of branch
 New changes
 Sample website with plenty of files for demos
-Good old times
 Bew times
 
 new updates
